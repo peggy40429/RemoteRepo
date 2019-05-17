@@ -1,1 +1,1 @@
-type some words
+This is file.txt in myBranch

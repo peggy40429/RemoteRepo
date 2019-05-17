@@ -1,6 +1,7 @@
+learn_git.sh
 /d2
-/*.cmake
+/RemoteRepo
+
+__pycache__
 /*.DS_Store
-/.user
-/build
 
